@@ -1,0 +1,10 @@
+Estudante,  1, ReferenciaMultibanco, LP,           PoloI
+Estudante,  2, CartaoCredito,        LEI,          PoloII 
+Estudante,  3, CartaoCredito,        LM,           PoloIII
+Estudante,  4, ReferenciaMultibanco, LE,           PoloIII
+
+Docente,    5, CartaoCredito,        FCTUC ; FMUC
+Docente,    6, ReferenciaMultibanco, FDUC
+
+NaoDocente, 7, CartaoCredito,        Limpezas
+NaoDocente, 8, ReferenciaMultibanco, Cantina

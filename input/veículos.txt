@@ -1,0 +1,12 @@
+Bicicleta, 1,  Coimbra,   Individual
+Bicicleta, 2,  Lisboa,    Duplo
+Bicicleta, 3,  Beja,      Individual
+Bicicleta, 4,  Setúbal,   Duplo
+
+Trotinete, 5,  Porto,     0,          false
+Trotinete, 6,  Faro,      69,         true
+Trotinete, 7,  Fafe,      69,         true
+
+EBike,     8,  Albufeira, 18,         Fixa
+EBike,     9,  Odivelas,  1,          Removivel
+EBike,     10, Funchal,   100,        Removivel
